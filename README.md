@@ -13,8 +13,7 @@
 </div>
 
 > [!NOTE]
-> 欢迎任何人提交 Issues 和 PR。<br>
-> 请注意 Telegram 没有官方 Flutter 客户端 我的项目是完全使用 AI 复刻 Telegram 的 UI
+> 由于没有动力且我也没有闲暇时间继续更新本项目，因此我将把所有精力全部投入 [Focus](https://github.com/Ac1d1x/Focus)，请期待其 v1.0.3 的 彼岸双生 Next 模式。你可以将本项目作为一个 AGPL 3.0 的 Telegram Flutter UI Kit。
 
 ---
 
